@@ -1,3 +1,8 @@
+> **foxnaim** · Шаблон Telegram-бота на aiogram 3 с PostgreSQL, SQLAlchemy и миграциями Alembic
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # aiogram_bot_template
 [![Author](https://img.shields.io/badge/Author-@wakaree-blue)](https://wakaree.dev)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
